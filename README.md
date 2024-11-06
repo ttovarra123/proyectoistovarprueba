@@ -5,7 +5,7 @@ Elaboro: Lic. Hildeberto Tovar Moreno
 
 Fases de desarrollo de software
 
-- Plaenacion
+- Planeacion
 - Analisis
 - Diseño
 - Desarrollo
